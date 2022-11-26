@@ -2,7 +2,7 @@
 
 That is a BMI Calcuator
 
-### 👉 Link to Access: https://note-app-sandy-pi.vercel.app
+### 👉 Link to Access: https://bmi-calculator-topaz-iota.vercel.app
 
 ## ⚙ Config Section
 
